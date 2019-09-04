@@ -24,7 +24,7 @@ manager: dansimp
 
 Depending on the management tool you are using, you may need to specifically enable or configure Windows Defender Antivirus protection.
 
-See the table in [Deploy, manage, and report on Windows Defender Antivirus](deploy-manage-report-windows-defender-antivirus.md#ref2) for instructions on how to enable protection with Microsoft Intune, System Center Configuration Manager, Group Policy, Active Directory, Microsoft Azure, PowerShell cmdlets, and Windows Management Instruction (WMI).
+See the table in [Deploy, manage, and report on Windows Defender Antivirus](deploy-manage-report-windows-defender-antivirus.md#ref2) for instructions on how to enable protection with Microsoft Intune, System Center Configuration Manager, Group Policy, Active Directory, Microsoft Azure, PowerShell cmdlets, and Windows Management Instrumentation (WMI).
 
 Some scenarios require additional guidance on how to successfully deploy or configure Windows Defender Antivirus protection, such as Virtual Desktop Infrastructure (VDI) environments.
 
